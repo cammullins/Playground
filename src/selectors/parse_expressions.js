@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import { createSelector } from 'reselect';
 import { transform } from 'babel-standalone';
-// import esprima from 'esprima';
+import esprima from 'esprima';
 
 
 const codeSelector = state => state.code;
