@@ -26,7 +26,7 @@
     "gh-pages": "^3.0.0",
     "jquery": "^3.4.1",
     "jsdom": "^16.2.1",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "react-addons-test-utils": "^15.6.2",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
